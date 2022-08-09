@@ -1,0 +1,54 @@
+@import'./variables.scss';
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+section {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    i{
+        font-size: 64px;
+    }
+    .twitter{
+        color: $colTwitter;
+    }
+    .behance{
+        color: $colBehance;
+    }
+    .facebook{
+        color: $colFacebook;
+    }
+    .vimeo{
+        color: $colVimeo;
+    }
+    .snapchat{
+        color: $colSnapchat;
+    }
+    .airbnb{
+        color: $colAirbnb;
+    }
+    .amazon{
+        color: $colAmazon;
+    }
+    .android{
+        color: $colAndroid;
+    }
+    .stackoverflow{
+        color: $colStackoverflow;
+    }
+    .ubuntu{
+        color: $colUbuntu;
+    }
+    .github{
+        color: $colGithub;
+    }
+    .javascript{
+        color: $colJavacript;
+    }
+}

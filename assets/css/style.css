@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+section i {
+  font-size: 64px;
+}
+section .twitter {
+  color: #1da1f2;
+}
+section .behance {
+  color: #1769ff;
+}
+section .facebook {
+  color: #1877f2;
+}
+section .vimeo {
+  color: #1ab7ea;
+}
+section .snapchat {
+  color: #fffc00;
+}
+section .airbnb {
+  color: #fd5c63;
+}
+section .amazon {
+  color: #ff9900;
+}
+section .android {
+  color: #a4c639;
+}
+section .stackoverflow {
+  color: #bcbbbb;
+}
+section .ubuntu {
+  color: #77216f;
+}
+section .github {
+  color: #4078c0;
+}
+section .javascript {
+  color: #f7df1e;
+}
+
+/*# sourceMappingURL=style.css.map */
